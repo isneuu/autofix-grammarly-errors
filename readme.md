@@ -18,4 +18,4 @@ Paste the code in index.js
  
 If you can do better, please do! They may change class names or do something different in the future.
  
-Get to know me: isneuu.com
+DM me @ https://isneuu.com
