@@ -1,4 +1,4 @@
-# This script automatically fixes your grammarly errors.
+# This script automatically fixes your Grammarly errors.
 ![alt text](https://github.com/isneuu/autofix-grammarly-errors/blob/main/gramm.gif "Preview")
 
 
