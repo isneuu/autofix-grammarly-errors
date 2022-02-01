@@ -1,4 +1,8 @@
 # Title: This script automatically fixes your grammarly errors.
+![alt text](https://github.com/isneuu/autofix-grammarly-errors/blob/main/gramm.gif "Preview")
+
+
+
 ### Use case: Large document with 100+ errors
  
 ### How to use:
